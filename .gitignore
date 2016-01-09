@@ -1,0 +1,5 @@
+*.yaml
+.Rhistory
+FitnessDashboard.Rproj
+.Rproj.user
+data
