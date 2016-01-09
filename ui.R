@@ -3,7 +3,7 @@ library(shinydashboard)
 library(data.table)
 library(DT)
 
-header  <- dashboardHeader(title = "Quantified Self")
+header  <- dashboardHeader(title = "DashMe")
 
 sidebar <- dashboardSidebar(
   sidebarMenu(
@@ -27,6 +27,6 @@ body <- dashboardBody(
   )
 )
 
-dashboardPage(header, sidebar, body, "Quantified Self")
+dashboardPage(header, sidebar, body, "DashMe")
 
 
