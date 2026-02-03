@@ -5,3 +5,4 @@
 *.Rdata
 *.Rda
 DashMe.Rproj
+.DS_Store
