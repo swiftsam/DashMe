@@ -6,3 +6,5 @@
 *.Rda
 DashMe.Rproj
 .DS_Store
+.env
+*.csv
